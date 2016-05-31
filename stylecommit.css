@@ -1,0 +1,100 @@
+
+/* here is the header*/
+.header-all-details{
+	background-color: #2C2B2B;
+	line-height: 30px !important;
+}
+h1{
+	line-height: 0.4 !important;
+	font-size: 30px !important;
+	margin-top: 0px !important;
+    margin-bottom: 0px !important;
+	font-family: -webkit-pictograph !important;
+    font-weight: 100 !important;
+    line-height: 0.5 !important;
+    color: #E0D3D3 !important;
+	
+}
+h6 {
+	margin-left: 20px !important;
+    font-size: 17px !important;
+    font-family: -webkit-pictograph !important;
+    font-weight: 100 !important;
+    line-height: 0.4 !important;
+    color: white !important;
+}
+
+.nav-pills> li.active > a, 
+.nav-pills> li.active> a:focus {
+    background-color: #000 !important;
+}
+.nav-pills > li.active > a:hover{
+	background-color: #03A9F4 !important;
+}
+
+.nav{
+	margin-top:0 !important;
+    margin-bottom: 0 !important;
+    list-style: none !important;
+    line-height: 14px !Important;
+}
+.home-all-details{
+	margin-left: 5px !important;
+	padding: 5px 0 !important;
+}
+/*here are all the forms*/
+.all-form-details{
+	margin: 20px 0;
+}
+.serach-buton-background{
+	background-color: #000 !important;
+}
+
+/*here ore the title of column*/
+.whrite-left{
+	font-size: 15px;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	float:left;
+	margin-bottom:0px;
+	padding: 5px 5px;
+}
+.whrite-right{
+	font-size: 15px;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	float:right;
+	margin-bottom:0px;
+	padding: 5px 5px;
+}
+
+/*here is Incurreret, Fabulas, Summis, Labore, Eram and all hr*/
+.first-hr{
+	margin-top: 5px !important;
+    margin-bottom: 10px !important;
+    border-top: 1px solid rgba(100, 85, 85, 0.38);
+}
+.all-glyphicon-5-right{
+	float:right;
+	padding: 5px 10px;
+	background-color: #000;
+	color: white;
+}
+.last-hr{
+	margin-top: 20px !important;
+    margin-bottom: 10px !important;
+    border-top: 5px solid #03A9F4;
+}
+
+/*here is RIEPILOGO*/
+.riepilogo-center{
+	text-align: center !important;
+    background-color: #000;
+    color: white;
+    font-size: 15px;
+    padding: 10px 0;
+    margin: 15px auto;
+}
+
+/*here is footer*/
+.all-center-footer{
+	text-align: center !important;
+}
